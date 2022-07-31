@@ -411,9 +411,11 @@ margin-right: 20px;
 }
 .piha-text{
 font-size: 1.2em;
+margin-left: 170px;
 }
 .design-text{
 font-size: 1.2em;
+margin-left: 170px;
 }
 
 .dotline{
@@ -423,9 +425,3 @@ margin-top: 100px;
 font-size: 1.2em;
 }
 
-.accomp-row {
-width: 40%;
-margin: 100px auto 100px auto;
-text-align: left;
-line-height: 2;
-}
