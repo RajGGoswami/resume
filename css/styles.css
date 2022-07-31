@@ -410,11 +410,9 @@ float: left;
 margin-right: 20px;
 }
 .piha-text{
-margin-left: 170px;
 font-size: 1.2em;
 }
 .design-text{
-margin-left: 170px;
 font-size: 1.2em;
 }
 
@@ -423,4 +421,11 @@ margin-top: 100px;
 }
 .para{
 font-size: 1.2em;
+}
+
+.accomp-row {
+width: 40%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
 }
